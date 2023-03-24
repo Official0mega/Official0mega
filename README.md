@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi Friends(Welcome to my Profile)👨🏻‍💻 
+/"Kindly Star my Repo(s) and Follow me for more helpful Codes*/
 
 [![trophy](https://github-profile-trophy.vercel.app/Official0mega=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
