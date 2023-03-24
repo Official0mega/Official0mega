@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/Official0megaryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/Official0mega=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 🔭 I’m currently enrolled at the ALX SOFTWARE ENGINEERING PROGRAM
 
