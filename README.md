@@ -1,6 +1,8 @@
 ### Hi Friends(Welcome to my Profile)👨🏻‍💻 
 /"Kindly Star my Repo(s) and Follow me for more helpful Codes*/
 
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+
 [![trophy](https://github-profile-trophy.vercel.app/Official0mega=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 🔭 I’m currently enrolled at the ALX SOFTWARE ENGINEERING PROGRAM
