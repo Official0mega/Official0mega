@@ -1,6 +1,6 @@
 [![MasterHead](https://tenor.com/en-AU/view/developer-developers-developers-developers-developers-programming-typing-gif-25177948)] 
 <h1 align="center">Hi Friends👋, I'm James</h1>
-<h3 align="center">I'm a Chaos Engineering Enthusiast, Open Source Contributor, and Professional Software Developer. I also like Python, C/C++, Java/Javascript, Ruby and I'm exploring more including Cloud Tech 👨‍💻</h3>
+<h3 align="center">I am a Chaos Engineering Enthusiast, Open Source Contributor, and Professional Software Developer. I also like Python, C/C++, Java/Javascript, Ruby and I'm exploring more including Cloud Tech 👨‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=official0mega&label=Profile%20views&color=0e75b6&style=flat" alt="official0mega" /> </p>
 
