@@ -1,7 +1,8 @@
 [![MasterHead](https://tenor.com/en-AU/view/developer-developers-developers-developers-developers-programming-typing-gif-25177948)] 
 <h1 align="center">Hi Friends👋, I'm James</h1>
-<h3 align="center">I am a Chaos Engineering Enthusiast, Open Source Contributor, and Professional Software Developer. I also like Python, C/C++, Java/Javascript, Ruby and I'm exploring more including Cloud Tech 👨‍💻</h3>
-
+<h3 align="center">I am a Chaos Engineering Enthusiast, Open Source Contributor, and Professional Software Developer. I also love Python, C/C++, Java/Javascript, Ruby and I'm exploring more including Cloud Tech 👨‍💻</h3>
+<h4 align="left">You can Reach me on davidjamestaiye@yahoo.com</h4>
+<h4 align="left">You can Chat me on Whatsapp +2349068542767</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=official0mega&label=Profile%20views&color=0e75b6&style=flat" alt="official0mega" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=official0mega" alt="official0mega" /></a> </p>
@@ -12,7 +13,7 @@
 <p align="left">
 <a href="https://twitter.com/official0mega" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="official0mega" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/david james" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david james" height="30" width="40" /></a>
-<a href="https://fb.com/david james taiye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="david james taiye" height="30" width="40" /></a>
+<a href="https://fb.com/david james taiye" target="facebook.com"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="david james taiye" height="30" width="40" /></a>
 <a href="https://instagram.com/0fficial0mega" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0fficial0mega" height="30" width="40" /></a>
 <a href="https://medium.com/supr3m30m3ga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="supr3m30m3ga" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/davidjames5027" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="davidjames5027" height="30" width="40" /></a>
