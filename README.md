@@ -1,5 +1,7 @@
-[![MasterHead](https://tenor.com/en-AU/view/developer-developers-developers-developers-developers-programming-typing-gif-25177948)] 
-<h1 align="center">Hi Friends👋, I'm James</h1>
+<br>                                          <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<br>
+
+
 <h3 align="center">I am a Chaos Engineering Enthusiast, Open Source Contributor, and Professional Software Developer. I also love Python, C/C++, Java/Javascript, Ruby and I'm exploring more including Cloud Tech 👨‍💻</h3>
 <h4 align="left">You can Reach me on davidjamestaiye@yahoo.com</h4>
 <h4 align="left">You can Chat me on Whatsapp +2349068542767</h4>
