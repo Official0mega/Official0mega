@@ -1,8 +1,11 @@
+
+
 ![1671550620988](https://user-images.githubusercontent.com/122806822/227786429-be07e72f-c370-40b2-a8bc-b0bfd7c8e2d7.jpg)
 
 <br>                                          <img alt="Coder GIF" height=240 width=400 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 <br>
 
+https://user-images.githubusercontent.com/122806822/227787317-ba726f99-6106-4800-baf4-8a55e6f27957.mp4
 
 <h3 align="center">I am a Chaos Engineering Enthusiast, Open Source Contributor, and Professional Software Developer. I also love Python, C/C++, Java/Javascript, Ruby and I'm exploring more including Cloud Tech 👨‍💻</h3>
 <h4 align="left">You can Reach me on davidjamestaiye@yahoo.com</h4>
