@@ -17,6 +17,10 @@ https://user-images.githubusercontent.com/122806822/227787317-ba726f99-6106-4800
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=official0mega" alt="official0mega" /></a> </p>
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhenye-na.zhenye-na)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+
+
 <p align="left"> <a href="https://twitter.com/official0mega" target="blank"><img src="https://img.shields.io/twitter/follow/official0mega?logo=twitter&style=for-the-badge" alt="official0mega" /></a> </p>
 
 <h3 align="left">Connect & Collaborate with me🍷:</h3>
