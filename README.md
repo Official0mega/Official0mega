@@ -1,3 +1,4 @@
+# [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Heyo!+You+Are+Welcome+To+My+Github-Profile;My+Name+Is+Omega;I+Am+Passionate+About+Codin/Hacking;I+Learn+By+Practicing-Coding)](https://git.io/typing-svg)
 
 
 ![1671550620988](https://user-images.githubusercontent.com/122806822/227786429-be07e72f-c370-40b2-a8bc-b0bfd7c8e2d7.jpg)
