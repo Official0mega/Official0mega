@@ -14,7 +14,7 @@
 https://user-images.githubusercontent.com/122806822/227787317-ba726f99-6106-4800-baf4-8a55e6f27957.mp4
 ### Cyber Security🔓
 ### Full-Stack Web Developer🔓
-### Join Our Free Full-Stack Web development Daily Course through the WhatsApp Link Below👇👇👇
+### Join Our Free Full-Stack Web development Daily Lectures through the WhatsApp Link Below👇👇👇
 https://chat.whatsapp.com/Lk9TCg0OkUYHur3ENLvcJF
 
 <h3 align="center">I am a Chaos Engineering Enthusiast, Open Source Contributor, and Professional Software Developer. I also love Python, C/C++, Java/Javascript, Ruby and I'm exploring more including Cloud Tech 👨‍💻</h3>
