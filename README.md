@@ -1,4 +1,8 @@
-![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)
+<p align="center">
+  <img src="https://github.com/Official0mega/Official0mega/assets/122806822/6993e999-dba0-41f4-8222-ac7a58db208a" alt="Image">
+</p>
+
+
 <h1 align="center">David James Taiye Github Profile</h1>
 <h2 align="center">Flutter Mobile and NodeJS Backend Developer</h2>
 <img align= "right" alt="CodingGuy" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
