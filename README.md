@@ -7,9 +7,9 @@
 <h2 align="center">Flutter Mobile and NodeJS Backend Developer</h2>
 <img align= "right" alt="CodingGuy" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=olawills&label=Profile%20views&color=0e75b6&style=flat" alt="Official0mega" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Official0mega&label=Profile%20views&color=0e75b6&style=flat" alt="Official0mega" /> </p>
 
-<p align="left"> <a href="https://twitter.com/Official0mega" target="blank"><img src="https://img.shields.io/twitter/follow/Official0mega?logo=twitter&style=for-the-badge" alt="Olawills" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Official0mega" target="blank"><img src="https://img.shields.io/twitter/follow/Official0mega?logo=twitter&style=for-the-badge" alt="Official0mega" /></a> </p>
 
 - 🔭 I’m working on **Projects with Flutter, NodeJS and Kotlin**
 
@@ -68,10 +68,10 @@ Name | Badges
  <br>
 
  ## Stats.
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olawills&layout=compact&theme=dark&hide_border=false" /></p>
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=olawills&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark&hide_border=false&border_radius=2&hide=contribs" alt="Williams Olabamidele github stats" /></p> -->
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Official0mega&layout=compact&theme=dark&hide_border=false" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Official0mega&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark&hide_border=false&border_radius=2&hide=contribs" alt="David JamesT. github stats" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=olawills&theme=dark" alt="Olawills" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Official0mega&theme=dark" alt="Official0mega" /></p>
 <br/>
  <b>Note:</b> The top languages shown here is just a measure of what i have posted here on Github and not my actual skill level, Thank you.
 
