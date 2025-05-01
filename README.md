@@ -75,6 +75,90 @@ Name | Badges
 <br/>
  <b>Note:</b> The top languages shown here is just a measure of what i have posted here on Github and not my actual skill level, Thank you.
 
+
+## 📈 Live Stats & More 🚀
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Official0mega&theme=github_dark" alt="GitHub Profile Summary Card" />
+</p>
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Official0mega&theme=discord&row=1&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
+### 🔥 GitHub Contributions Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Official0mega&theme=react-dark" alt="GitHub Activity Graph" />
+</p>
+
+### 🌍 Visitor Map
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Official0mega/count.svg" alt="Visitor Count" />
+</p>
+
+
+
+## 📊 GitHub Live Stats & Analytics 🚀
+
+### 🧠 GitHub Profile Summary
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Official0mega&theme=github_dark" />
+</p>
+
+### 💡 Most Used Languages
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Official0mega&theme=github_dark" />
+</p>
+
+### ⚡ Commits per Day
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Official0mega&theme=github_dark&utcOffset=8" />
+</p>
+
+### 🕓 Commits per Hour
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Official0mega&theme=github_dark" />
+</p>
+
+### 🧰 GitHub Stats (Card)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Official0mega&show_icons=true&theme=dark&count_private=true&hide_border=false" />
+</p>
+
+### 📊 Top Languages (Public Repos Only)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Official0mega&layout=compact&theme=dark&hide_border=false" />
+</p>
+
+### 🔥 GitHub Streaks
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Official0mega&theme=dark" />
+</p>
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Official0mega&theme=discord&row=1&margin-w=15&margin-h=15" />
+</p>
+
+### 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Official0mega&theme=react-dark&hide_border=true" />
+</p>
+
+### 🌍 Visitor Location Map
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Official0mega/count.svg" />
+</p>
+
+
+
+> 🚧 **Note:** All live stats are automatically updated based on your GitHub activity.
+
+
 Credit: [CodeVerseHub](https://github.com/CodeVerseHub)
 
 Last Edited on: 13/03/2024
