@@ -135,10 +135,12 @@ Name | Badges
 </p>
 
 ### 🔥 GitHub Streaks
-<p align="center">
+<!-- <p align="center">
   [![GitHub Streak](https://streak-stats.demolab.com?user=Official0mega)](https://git.io/streak-stats)
   <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Official0mega&theme=dark" /> -->
-</p>
+</p> -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=Official0mega)](https://git.io/streak-stats)
+
 
 ### 🏆 GitHub Trophies
 <p align="center">
