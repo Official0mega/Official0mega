@@ -83,6 +83,33 @@ Name | Badges
 
  <br>
 
+
+## 🌐 Socials:
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/Official0mega) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Official0mega) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Official0mega) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Official0mega) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Official0mega) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Official0mega) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Official0mega) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Official0mega) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Official0mega) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Official0mega) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Official0mega) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Official0mega) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Official0mega) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Official0mega) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Official0mega@gmail.com) 
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Official0mega&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Official0mega&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Official0mega&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Official0mega&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Official0mega&limit=5&theme=default&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Official0mega&icon=0&color=1)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Official0mega) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Official0mega) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/Official0mega) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/Official0mega) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
  ## Stats.
  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Official0mega&layout=compact&theme=dark&hide_border=false" /></p>
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Official0mega&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark&hide_border=false&border_radius=2&hide=contribs" alt="David JamesT. github stats" /></p> -->
@@ -90,90 +117,6 @@ Name | Badges
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Official0mega&theme=dark" alt="Official0mega" /></p>
 <br/>
  <b>Note:</b> The top languages shown here is just a measure of what i have posted here on Github and not my actual skill level, Thank you.
-
-
-## 📈 Live Stats & More 🚀
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Official0mega&show_icons=true&theme=dark)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Official0mega&theme=dark)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Official0mega&layout=compact&theme=dark)
-
-- [Stats Link](https://githubreadmestatsfast.vercel.app/)
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Official0mega&theme=github_dark" alt="GitHub Profile Summary Card" />
-</p>
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Official0mega&theme=discord&row=1&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
-
-### 🔥 GitHub Contributions Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Official0mega&theme=react-dark" alt="GitHub Activity Graph" />
-</p>
-
-### 🌍 Visitor Map
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Official0mega/count.svg" alt="Visitor Count" />
-</p>
-
-
-
-## 📊 GitHub Live Stats & Analytics 🚀
-
-### 🧠 GitHub Profile Summary
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Official0mega&theme=github_dark" />
-</p>
-
-### 💡 Most Used Languages
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Official0mega&theme=github_dark" />
-</p>
-
-### ⚡ Commits per Day
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Official0mega&theme=github_dark&utcOffset=8" />
-</p>
-
-### 🕓 Commits per Hour
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Official0mega&theme=github_dark" />
-</p>
-
-### 🧰 GitHub Stats (Card)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Official0mega&show_icons=true&theme=dark&count_private=true&hide_border=false" />
-</p>
-
-### 📊 Top Languages (Public Repos Only)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Official0mega&layout=compact&theme=dark&hide_border=false" />
-</p>
-
-### 🔥 GitHub Streaks
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Official0mega&theme=dark" />
-</p>
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Official0mega&theme=discord&row=1&margin-w=15&margin-h=15" />
-</p>
-
-### 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Official0mega&theme=react-dark&hide_border=true" />
-</p>
-
-### 🌍 Visitor Location Map
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Official0mega/count.svg" />
-</p>
 
 
 
