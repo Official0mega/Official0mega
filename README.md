@@ -93,6 +93,11 @@ Name | Badges
 
 
 ## 📈 Live Stats & More 🚀
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Official0mega&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Official0mega&theme=dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Official0mega&layout=compact&theme=dark)
+
+- [Stats Link](https://githubreadmestatsfast.vercel.app/)
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Official0mega&theme=github_dark" alt="GitHub Profile Summary Card" />
