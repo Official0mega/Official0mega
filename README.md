@@ -95,14 +95,7 @@ Name | Badges
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Official0mega) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Official0mega) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/Official0mega) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/Official0mega) 
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
- ## Stats.
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Official0mega&layout=compact&theme=dark&hide_border=false" /></p>
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Official0mega&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark&hide_border=false&border_radius=2&hide=contribs" alt="David JamesT. github stats" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Official0mega&theme=dark" alt="Official0mega" /></p>
-<br/>
  <b>Note:</b> The top languages shown here is just a measure of what i have posted here on Github and not my actual skill level, Thank you.
 
 
