@@ -65,22 +65,42 @@ Name | Badges
 
 <hr>
 
+
  <br>
+ <details open align="center">
+  <summary>📈 More Stats</summary>
+  <br>
+ <!--
+<p align="center">
+<a href="https://github.com/Official0mega"> 
+<img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOfficial0mega%2Fhit-counter&count_bg=%236EB9F2&title_bg=%2301102D&icon=workplace.svg&icon_color=%2341C350&title=Profile+Views+(since+03/2024)&edge_flat=true" width="">    
+</a></p> -->
+
+<p align="center">
+<div align="center">
+ <a href="https://github.com/Official0mega"> 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Official0mega&theme=algolia" width="100%" /> </br></br>
+
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Official0mega&theme=algolia" width="31%" align="left"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Official0mega&theme=algolia" width="31%" align="right" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Official0mega&theme=algolia" width="31%" align="center" title="🦉 Night owl" />  
+</br></br>
+ </a>
+  
+<!--  [![Walid's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Official0mega&theme=algolia&card_width=1000)](https://github.com/Official0mega) -->
+
+</br>
+
+
 
 - [Starts-Links](https://gprm.itsvg.in/)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Official0mega&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Official0mega&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Official0mega&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<a href="https://git.io/streak-stats"><img src="https://github-streak-stats-m3h3d1.vercel.app/?user=Official0mega&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=820&card_height=312" alt="GitHub Streak" /></a>
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/Official0mega) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Official0mega) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Official0mega) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Official0mega) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Official0mega) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Official0mega) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Official0mega) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Official0mega) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Official0mega) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Official0mega) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Official0mega) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Official0mega) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Official0mega) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Official0mega) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Official0mega@gmail.com) 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Official0mega&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
